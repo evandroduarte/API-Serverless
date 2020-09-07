@@ -4,4 +4,5 @@ Criação de Sexy API Serverless para intuito inicial do bootcamp de desenvolvim
 Tecnologias utilizadas
 - Azure Functions
 - Azure Functions Core Tools
+- Node.js
 - MongoDB
